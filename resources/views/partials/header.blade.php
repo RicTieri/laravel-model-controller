@@ -1,4 +1,4 @@
-<section class="container-fluid mb-5 py-3 bg-dark shadow">
+<header class="container-fluid mb-5 py-3 bg-dark shadow">
   <nav class=" px-5 navbar navbar-expand-lg border-body" data-bs-theme="dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Movies</a>
@@ -32,4 +32,4 @@
     </div>
   </div>
 </nav>
-</section>
+</header>
